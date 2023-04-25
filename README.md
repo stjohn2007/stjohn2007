@@ -1,6 +1,6 @@
 
 # Hi there 👋
-This is Masanari Ohi (大井 聖也)'s profile page.
+This is Masanari Ohi (大井 聖也 🇯🇵)'s profile page.
 
 ## School Info
 - B4 student at Tokyo Institute of Technology
