@@ -1,4 +1,17 @@
-### Hi there 👋
+
+# Hi there 👋
+This is Masanari Ohi (大井 聖也)'s profile page.
+
+## School Info
+- B4 student at Tokyo Institute of Technology
+- member of [Okazaki Laboratory](https://www.nlp.c.titech.ac.jp/)
+
+## Works
+- working on [CoeFont](https://coefont.cloud/) as a researcher
+- developing [3秒敬語](https://3keigo.com/) as a AI engineer
+
+## GitHub Stats
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=stjohn2007)
 
 <!--
 **stjohn2007/stjohn2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
