@@ -10,9 +10,6 @@ This is Masanari Ohi (大井 聖也 🇯🇵)'s profile page.
 - working on [CoeFont](https://coefont.cloud/) as a researcher
 - developing [3秒敬語](https://3keigo.com/) as a AI engineer
 
-## GitHub Stats
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=stjohn2007&count_private=true)
-
 
 <!--
 **stjohn2007/stjohn2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
