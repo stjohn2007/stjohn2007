@@ -3,8 +3,7 @@
 This is Masanari Ohi (大井 聖也 🇯🇵)'s profile page.
 
 ## School Info
-- B4 student at Tokyo Institute of Technology
-- member of [Okazaki Laboratory](https://www.nlp.c.titech.ac.jp/)
+- Master student at Institute of Science Tokyo
 
 ## Works
 - working on [CoeFont](https://coefont.cloud/) as a researcher
