@@ -1,6 +1,12 @@
 
 # Hi there 👋
-This is Masanari Ohi (大井 聖也 🇯🇵)'s profile page.
+This is Masanari Oi (大井 聖也 🇯🇵)'s profile page.
+
+## Home Page
+https://sites.google.com/view/masanarioi/
+
+## Publication
+https://scholar.google.com/citations?user=-f0Jt-isZzAC&hl=ja
 
 ## School Info
 - Master student at Institute of Science Tokyo
@@ -8,6 +14,7 @@ This is Masanari Ohi (大井 聖也 🇯🇵)'s profile page.
 ## Works
 - working on [CoeFont](https://coefont.cloud/) as a researcher
 - developing [3秒敬語](https://3keigo.com/) as a AI engineer
+
 
 
 <!--
